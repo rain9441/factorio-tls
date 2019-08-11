@@ -1,0 +1,24 @@
+{
+  "name": "factorio-tls",
+  "version": "1.0.0",
+  "description": "Train Logistics System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extract": "node extract.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rain9441/factorio-tls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rain9441/factorio-tls/issues"
+  },
+  "homepage": "https://github.com/rain9441/factorio-tls#readme",
+  "devDependencies": {
+    "glob": "7.1.4",
+    "zlib": "1.0.5"
+  }
+}
