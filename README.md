@@ -27,7 +27,7 @@ TLS was built to aid in 100% speed run attempts (All achievements, one play thro
 ## Additional Resources
 
 * Check out [rain9441](https://www.twitch.tv/rain9441) on Twitch or join [Discord](https://discord.gg/sTf45MZ) for any comments, questions, or suggestions
-* Check out the [Wiki](Wiki) for an in depth explanation of what TLS does, how it works, and how to use it
+* Check out the [Wiki](https://github.com/rain9441/factorio-tls/wiki) for an in depth explanation of what TLS does, how it works, and how to use it
 * Stay tuned for videos some day soon
 
 ## History
