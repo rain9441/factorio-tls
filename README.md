@@ -1,13 +1,13 @@
 # Train Logistics System (TLS)
 TLS is a project to help with outposting. Keep your outposts stocked with whatever resources you'd like. Let trains do the heavy lifting of moving everything. Let bots do the heavy lifting of building everything.
 
-The idea behind TLS is to allow you to lay down a small blueprint which acted as a seed to create your outpost.  After placing the seed, trains were dispatched to deliver different parts, which are then built by construction bots.  As additional parts are added, more trains are dispatched.  The system acts as a requester chest across the world with items that are delivered by train.
+The idea behind TLS is to allow you to lay down a small blueprint which acts as a seed to create your outpost.  After placing the seed, trains are dispatched to deliver different parts, which are then built by construction bots.  As additional parts are added, more trains are dispatched.  The system acts as a requester chest across the world with items that are delivered by train.
 
 If you are looking to automate your outposting, this will help you do so.
 
 ### Pragmatic Combinators
 
-TLS was built to aid in 100% speed run attempts (All achievements, one play through).  While it did help with that, it also makes for a really great example of how combinators can be useful.  This is meant to be a resource to help players learn how to use combinators effectively.  There are few resources for more advanced Factorio system, so is meant to help spread understanding.
+TLS was built to aid in 100% speed run attempts (All achievements, one play through).  While it did help with that, it also makes for a really great example of how combinators can be useful.  This is meant to be a resource to help players learn how to use combinators effectively.  There are very few resources for more advanced Factorio systems, so this is meant to help spread knowledge.
 
 ## Blueprints
 
@@ -32,4 +32,5 @@ TLS was built to aid in 100% speed run attempts (All achievements, one play thro
 
 ## History
 
+* v1.5 Second release, forgot what was changed sorry.
 * v1.4 Initial GitHub Release
