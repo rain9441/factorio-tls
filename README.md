@@ -19,10 +19,6 @@ TLS was built to aid in 100% speed run attempts (All achievements, one play thro
 * Includes the seed, unloader, fluid unloader, trash system
 * Contains fundamental blueprints without item configurations that you can use to create your own TLS
 * Useful if you want to customize TLS to suit your own needs or use it outside of vanilla
-### [Constructs](https://github.com/rain9441/factorio-tls/blob/master/blueprints/tls-constructs.bp) (Optional)
-* Rain's actual outpost configurations used in his 2700 SPM base
-* Has large preconfigured station blueprints (eg On Site Smelting, Nuclear Power Plant, Uranium Outpost, or Artillery Outpost)
-* Includes various seed blueprints for different types of outposts
 
 ## Additional Resources
 
@@ -32,5 +28,6 @@ TLS was built to aid in 100% speed run attempts (All achievements, one play thro
 
 ## History
 
+* v1.6 Updated for Factorio 1.0.  Improved logic for unloading accuracy.  Implemented a single headed train variation.
 * v1.5 Second release, forgot what was changed sorry.
 * v1.4 Initial GitHub Release
