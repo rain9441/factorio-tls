@@ -15,10 +15,12 @@ TLS was built to aid in 100% speed run attempts (All achievements, one play thro
 * Rain's preferred train loader and dispatcher configurations
 * Has premade Loaders and Dispatchers out of the box which lets you use TLS very quickly
 * Based on vanilla Factorio game play
+* Pastebin link: [https://pastebin.com/bhCY9XrK](https://pastebin.com/bhCY9XrK)
 ### [Core](https://github.com/rain9441/factorio-tls/blob/master/blueprints/tls-core.bp)
 * Includes the seed, unloader, fluid unloader, trash system
 * Contains fundamental blueprints without item configurations that you can use to create your own TLS
 * Useful if you want to customize TLS to suit your own needs or use it outside of vanilla
+* Pastebin link: [https://pastebin.com/Yr1mCGbp](https://pastebin.com/Yr1mCGbp)
 
 ## Additional Resources
 
